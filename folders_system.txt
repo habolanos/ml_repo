@@ -1,0 +1,6 @@
+.
+├── ejemplo.txt
+├── folders_system.txt
+└── info_system.txt
+
+0 directories, 3 files
